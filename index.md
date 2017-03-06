@@ -1,2 +1,8 @@
 # orbzsh.github.io
-orbs blog
+
+- [Git]
+- [MySQL]
+
+
+[Git]: <//git.md>
+[MySQL]: <//mysql.md>
