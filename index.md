@@ -4,5 +4,5 @@
 - [MySQL]
 
 
-[Git]: <//git.md>
-[MySQL]: <//mysql.md>
+[Git]: <https://github.com/orbzsh/orbzsh.github.io/blob/master/git.md>
+[MySQL]: <https://github.com/orbzsh/orbzsh.github.io/blob/master/mysql.md>
